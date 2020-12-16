@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/parameters.png</file>
+        <file>image/parameters_m.png</file>
+    </qresource>
+</RCC>
