@@ -6,4 +6,4 @@
 
 <br>
 
-![demo1](https://github.com/ShieldQiQi/Parallel-Scara-Robot-Generator/blob/main/image/Demo.jpg)
+![demo1](https://github.com/ShieldQiQi/Parallel-Scara-Robot-Generator/blob/main/image/Demo.png)
