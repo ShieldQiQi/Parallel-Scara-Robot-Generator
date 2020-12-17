@@ -49,9 +49,16 @@ public:
     PaintWidget* workspacePainter;
     QTimer* timer;
 
+    bool movieMode = 0;
+    bool moveState = 0;
+
 private slots:
     void inverse();
     void startCaculate();
+
+    void on_checkBox_stateChanged(int arg1);
+
+    void on_checkBox_2_stateChanged(int arg1);
 
 private:
     Ui::MainWindow *ui;

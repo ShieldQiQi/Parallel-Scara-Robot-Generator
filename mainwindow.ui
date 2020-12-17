@@ -90,14 +90,13 @@
        <property name="geometry">
         <rect>
          <x>20</x>
-         <y>460</y>
+         <y>480</y>
          <width>241</width>
          <height>51</height>
         </rect>
        </property>
        <property name="styleSheet">
-        <string notr="true">
-</string>
+        <string notr="true"/>
        </property>
        <property name="text">
         <string>Generate</string>
@@ -307,13 +306,39 @@
        <property name="geometry">
         <rect>
          <x>20</x>
-         <y>540</y>
+         <y>550</y>
          <width>241</width>
          <height>21</height>
         </rect>
        </property>
        <property name="text">
         <string>The results is showed below</string>
+       </property>
+      </widget>
+      <widget class="QCheckBox" name="checkBox">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>440</y>
+         <width>121</width>
+         <height>21</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>MovieMode</string>
+       </property>
+      </widget>
+      <widget class="QCheckBox" name="checkBox_2">
+       <property name="geometry">
+        <rect>
+         <x>150</x>
+         <y>440</y>
+         <width>121</width>
+         <height>21</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Toggle Movie</string>
        </property>
       </widget>
      </widget>
